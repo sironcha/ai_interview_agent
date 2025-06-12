@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+interview_agent/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# VS Code settings
+.vscode/
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/config.toml
+.streamlit/secrets.toml
+.streamlit/*.json
+.streamlit/*.lock
+
+# pyproject/lock files
+poetry.lock
+*.lock
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and temp data
+*.log
+*.sqlite3
+*.db
+
+# UV
+uv.lock
+
+.env

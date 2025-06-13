@@ -1,4 +1,11 @@
-openai
 streamlit
-python-dotenv
-PyMuPDF
+streamlit-webrtc
+speechrecognition
+pyaudio
+pyttsx3
+pymupdf
+pypdf2
+python-docx
+openai
+soundfile
+av
